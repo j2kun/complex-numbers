@@ -1,4 +1,4 @@
-Complex Numbers
+## Complex Numbers
 ---------------
 
 This is the code repository for the post "[Learning to Love Complex Numbers](http://jeremykun.com/2014/05/26/learning-to-love-complex-numbers/)."
